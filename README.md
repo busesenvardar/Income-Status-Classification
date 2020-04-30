@@ -18,7 +18,8 @@
 	Predictive Modelling
 	
 ## Project Description
-	The dataset we used for this project is an extraction of 1994 Census database. It consists of demographic features
-	such as age, workclass, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain,
-	capital-loss, hours-per-week, native-country and final-weight which is a combination of some features. We approach
-	this data as a binary classification problem using supervised learning algorithms.
+	The dataset we used for this project is an extraction of 1994 Census database. It consists of demographic
+	features such as age, workclass, education, education-num, marital-status, occupation, relationship,
+	race, sex, capital-gain, capital-loss, hours-per-week, native-country and final-weight which
+	is a combination of some features. We approach this data as a binary classification problem using 
+	supervised learning algorithms.
